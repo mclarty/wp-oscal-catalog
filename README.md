@@ -1,6 +1,6 @@
 # WP OSCAL Catalog Importer — User Guide
 
-A WordPress plugin that imports an **OSCAL Catalog** (YAML or JSON) and generates one **Security Control** page per control with:
+A WordPress plugin that imports an **[OSCAL Catalog](https://pages.nist.gov/OSCAL/learn/concepts/layer/control/catalog/)** (YAML or JSON) and generates one **Security Control** page per control with:
 
 - Zero-padded control labels and enhancement handling  
 - Nested **Control Statement** rendering (labels preserved; bullets visually suppressed)  
